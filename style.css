@@ -31,9 +31,9 @@ nav{
     flex-wrap: wrap;
 }
 
-.logo{
-    width: 140px;
-
+.logo {
+  width: 140px;
+  font-size: xx-large;
 }
 
 nav ul li{
